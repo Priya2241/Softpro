@@ -1,0 +1,150 @@
+#register
+{
+    height: 300px;
+    background-image: url('../images/reg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.icon
+{
+    list-style-type: none;
+}
+ .icon li 
+{
+    display: inline-block;
+    padding: 2px 6px ;
+    background-color: orangered;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+#btn
+{
+    text-decoration: none;
+}
+#footer
+{
+    height: 500px;
+    background-image: url('../images/footer.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#footer .col-sm-12
+{
+   background-color: rgba(0, 0, 0, 0.917);
+}
+.smi
+{
+    list-style-type: none;
+}
+.smi li
+{
+    display: inline-block;
+    padding: 7px 10px ;
+    background-color: rgba(188, 174, 174, 0.508);
+    margin-right: 6px;
+    border-radius: 2px;
+    color: orangered;
+}
+ul
+{
+    list-style-type: none;
+}
+ul li{
+    margin-top: 7px;
+    color:lightslategray;
+}
+.student
+{
+    height: 250px;
+    width: 600px;
+    background-color: white;
+    margin-left: 50px;
+    border-radius: 10px;
+}
+#menu:hover a
+{
+  color: orangered;
+
+}
+#join
+{
+    height: 200px;
+    background-image: url('../images/register1.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+.feed
+{
+    height: 400px;
+    width: 350px;
+    
+}
+
+.box
+{
+    height: 200px;
+    width: 340px;
+     /* border: 1px solid black;  */
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.box i:hover
+{
+    background-color: orangered;
+    border-radius: 50%;
+}
+#legacy
+{
+    background-image: url('../images/legacy1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#legacy .col-sm-12
+{
+    background-color: rgba(77, 74, 74, 0.39);
+}
+.box1
+{
+    height: 100px;
+    width: 340px;
+     /* border: 1px solid black;  */
+    float: left;
+    margin-left: 20px;
+    margin-top: 40px;
+}
+#tech .col-sm-3:hover
+{
+    color: orangered;
+}
+#tech .col-sm-2:hover
+{
+    color: orangered;
+}
+#exp a:hover{
+    opacity: 0.5;
+}
+#partner
+{
+    height: 400px;
+    background-image: url('../images/legacy1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#partner .col-sm-12
+{
+    background-color: rgba(77, 74, 74, 0.39);
+}
+/* #recruiter .card img:hover
+{
+    background-color: orangered;
+} */
+ #mov:hover
+ {
+    transition: 0.5s ease;
+ }
